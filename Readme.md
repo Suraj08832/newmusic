@@ -23,11 +23,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&width=500&lines=Welcome+to+Annie+%F0%9F%8E%B6+The+Robot;Your+Ultimate+Telegram+Music+Bot" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&width=500&lines=Welcome+to+DESTINY+%F0%9F%8E%B6+The+Robot;Your+Ultimate+Telegram+Music+Bot" />
 </h1>
 
 <p align="center">
-  <a href="https://t.me/CertifiedCoders">
+  <a href="https://t.me/crush_hu_teras">
     <img src="https://telegra.ph/file/58afe55fee5ae99d6901b.jpg" width="600">
   </a>
 </p>
@@ -36,10 +36,10 @@
 
 <!-- 🛠 Stylish Badge Layout -->
 <p align="center">
-  <a href="https://t.me/AnnieTheRobot"><img src="https://img.shields.io/badge/Try%20Bot-@AnnieTheRobot-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://t.me/CertifiedCoders"><img src="https://img.shields.io/badge/Join%20Group-@CertifiedCoders-orange?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://t.me/DESTINYTheRobot"><img src="https://img.shields.io/badge/Try%20Bot-@DESTINYTheRobot-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://t.me/crush_hu_teras"><img src="https://img.shields.io/badge/Join%20Group-@CertifiedCoders-orange?style=for-the-badge&logo=telegram" /></a>
   <a href="https://t.me/CertifiedCodes"><img src="https://img.shields.io/badge/Updates%20Channel-@CertifiedCodes-purple?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://t.me/CertifiedCoder"><img src="https://img.shields.io/badge/Owner-@CertifiedCoder-red?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://t.me/crush_hu_tera"><img src="https://img.shields.io/badge/Owner-@CertifiedCoder-red?style=for-the-badge&logo=telegram" /></a>
   <a href="mailto:rajnishmishraaa1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-grey?style=for-the-badge&logo=gmail" /></a>
   <a href="https://instagram.com/rajnishthegreat"><img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" /></a>
   <a href="https://youtube.com/@rajnisha3"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" /></a>
@@ -47,11 +47,11 @@
 
 ---
 
-## 🌟 What is Annie Robot?
+## 🌟 What is DESTINY Robot?
 
-**Annie Robot** is a modern Telegram bot built for streaming high-quality music into group voice chats. Based on **Pyrogram** and **PyTgCalls**, Annie supports major music platforms like YouTube, Spotify, Apple Music, and more.
+**DESTINY Robot** is a modern Telegram bot built for streaming high-quality music into group voice chats. Based on **Pyrogram** and **PyTgCalls**, DESTINY supports major music platforms like YouTube, Spotify, Apple Music, and more.
 
-In addition to music streaming, Annie also features some **Group Management** capabilities including:
+In addition to music streaming, DESTINY also features some **Group Management** capabilities including:
 - 🔇 Mute/Kick/Ban etc.
 - 🎛 Admin & member tools (welcome messages, rules, etc.)
 
@@ -85,9 +85,9 @@ curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 source ~/.bashrc
 nvm install node
 
-# Step 3 - Clone Annie Repo
-git clone https://github.com/CertifiedCoders/AnnieXMusic
-cd AnnieXMusic
+# Step 3 - Clone DESTINY Repo
+git clone https://github.com/CertifiedCoders/DESTINYXMusic
+cd DESTINYXMusic
 
 # Step 4 - Install Python packages
 pip3 install -U -r requirements.txt
@@ -103,9 +103,9 @@ tmux new -s tune
 sudo bash start
 
 # Developer Extras
-. tmux kill-session -t Annie    # Stop Bot Session
-. tmux attach-session -t Annie  # Attach to Running Bot Session
-. rm -rf AnnieXMusic            # Full Uninstall
+. tmux kill-session -t DESTINY    # Stop Bot Session
+. tmux attach-session -t DESTINY  # Attach to Running Bot Session
+. rm -rf DESTINYXMusic            # Full Uninstall
 . Ctrl+B, release, then press D   # Detach from tmux
 
 ```
@@ -120,9 +120,9 @@ sudo bash start
 | Platform            | Link                                                                 |
 |---------------------|----------------------------------------------------------------------|
 | 🔑 Generate Session | <a href="https://t.me/CertifiedSessionBot"><img src="https://img.shields.io/badge/Session%20-Generator-orange?style=for-the-badge&logo=heroku" /></a> |
-| 🌍 Heroku Deploy     | <a href="http://dashboard.heroku.com/new?template=https://github.com/CertifiedCoders/AnnieXMusic"><img src="https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku" /></a> |
-| ⚡ Render Deploy     | <a href="https://render.com/deploy?repo=https://github.com/CertifiedCoders/AnnieXMusic"><img src="https://img.shields.io/badge/Deploy%20to-Render-blue?style=for-the-badge&logo=render" /></a> |
-| ☁️ Koyeb Deploy      | <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/CertifiedCoders/AnnieXMusic"><img src="https://img.shields.io/badge/Deploy%20to-Koyeb-green?style=for-the-badge&logo=koyeb" /></a> |
+| 🌍 Heroku Deploy     | <a href="http://dashboard.heroku.com/new?template=https://github.com/CertifiedCoders/DESTINYXMusic"><img src="https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku" /></a> |
+| ⚡ Render Deploy     | <a href="https://render.com/deploy?repo=https://github.com/CertifiedCoders/DESTINYXMusic"><img src="https://img.shields.io/badge/Deploy%20to-Render-blue?style=for-the-badge&logo=render" /></a> |
+| ☁️ Koyeb Deploy      | <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/CertifiedCoders/DESTINYXMusic"><img src="https://img.shields.io/badge/Deploy%20to-Koyeb-green?style=for-the-badge&logo=koyeb" /></a> |
 
 ---
 
@@ -131,15 +131,15 @@ sudo bash start
 ## 👥 Contributors, Stars & Forks
 
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/CertifiedCoders/AnnieXMusic?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/CertifiedCoders/AnnieXMusic?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/CertifiedCoders/AnnieXMusic?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/CertifiedCoders/AnnieXMusic?style=for-the-badge" />
+  <img src="https://img.shields.io/github/contributors/CertifiedCoders/DESTINYXMusic?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/CertifiedCoders/DESTINYXMusic?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/CertifiedCoders/DESTINYXMusic?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/CertifiedCoders/DESTINYXMusic?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/CertifiedCoders/AnnieXMusic/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=CertifiedCoders/AnnieXMusic" />
+  <a href="https://github.com/CertifiedCoders/DESTINYXMusic/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=CertifiedCoders/DESTINYXMusic" />
   </a>
 </p>
 
@@ -148,9 +148,9 @@ sudo bash start
 ## 💬 Community & Support
 
 <p align="center">
-  <a href="https://t.me/CertifiedCoders"><img src="https://img.shields.io/badge/Support%20Group-Join-orange?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://t.me/crush_hu_teras"><img src="https://img.shields.io/badge/Support%20Group-Join-orange?style=for-the-badge&logo=telegram" /></a>
   <a href="https://t.me/CertifiedCodes"><img src="https://img.shields.io/badge/Channel-Updates-purple?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://t.me/CertifiedCoder"><img src="https://img.shields.io/badge/Owner-Message-red?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://t.me/crush_hu_tera"><img src="https://img.shields.io/badge/Owner-Message-red?style=for-the-badge&logo=telegram" /></a>
   <a href="https://youtube.com/@rajnisha3"><img src="https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge&logo=youtube" /></a>
   <a href="https://instagram.com/rajnishthegreat"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" /></a>
   <a href="mailto:rajnishmishraaa1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-grey?style=for-the-badge&logo=gmail" /></a>
